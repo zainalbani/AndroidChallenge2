@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         editText = findViewById(R.id.editText)
-        textView = findViewById((R.id.textView1))
+        textView = findViewById((R.id.serviceText))
         radioAmazing = findViewById(R.id.radioAmazing)
         radioGood = findViewById(R.id.radioGood)
         radioOk = findViewById(R.id.radioOk)
